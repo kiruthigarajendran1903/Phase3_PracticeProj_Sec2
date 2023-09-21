@@ -1,0 +1,6 @@
+D:\SimpliLearn\Projects\Phase 3\Section 2\PracticeProject_Section2\PracticeProject_Section2\bin\Debug\PracticeProject_Section2.dll
+D:\SimpliLearn\Projects\Phase 3\Section 2\PracticeProject_Section2\PracticeProject_Section2\bin\Debug\PracticeProject_Section2.pdb
+D:\SimpliLearn\Projects\Phase 3\Section 2\PracticeProject_Section2\PracticeProject_Section2\obj\Debug\PracticeProject_Section2.csproj.AssemblyReference.cache
+D:\SimpliLearn\Projects\Phase 3\Section 2\PracticeProject_Section2\PracticeProject_Section2\obj\Debug\PracticeProject_Section2.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Projects\Phase 3\Section 2\PracticeProject_Section2\PracticeProject_Section2\obj\Debug\PracticeProject_Section2.dll
+D:\SimpliLearn\Projects\Phase 3\Section 2\PracticeProject_Section2\PracticeProject_Section2\obj\Debug\PracticeProject_Section2.pdb
